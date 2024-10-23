@@ -11,7 +11,7 @@ Esta é uma solução para o [Desafio do componente de código QR no Frontend Me
 ### Link
 
 
-- URL do site ativo: [link aqui](https://andersonf-dev.github.io/stats-preview-card-component/)
+- URL do site ativo: [link aqui](https://andersonf-dev.github.io/qr-code-component/)
 
 
 
